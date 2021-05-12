@@ -1,13 +1,17 @@
 
 ***
 
-# <projectName>
+# SeansLifeArchive-Images-MajorMayhem
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/MajorMayhemIcon.jpeg)
 
 # By:
 
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
+![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/AdultSwimLogo.jpeg)
+
+# And:
+
+![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/RocketJumpLogo.png)
 
 ### Top
 
@@ -27,13 +31,13 @@ Translations in languages other than English are machine translated and are not 
 
 [00.0 - Top](#Top)
 
-> [00.1 - Title](#<projectName>)
+> [00.1 - Title](#SeansLifeArchive-Images-MajorMayhem)
 
 > [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
 
 > [00.3 - Index](#Index)
 
-[01.0 - Description](#RepositoryName)
+[01.0 - Description](#eansLifeArchive_Images_MajorMayhem)
 
 [02.0 - About](#About)
 
@@ -71,20 +75,20 @@ Translations in languages other than English are machine translated and are not 
 
 ***
 
-# <repoName>
-<repo_description>
-
+# SeansLifeArchive_Images_MajorMayhem
+The module for my life story project that contains my images of the game Major Mayhem by RocketJump/AdultSwimGames. 
+  
 ***
 
 ## About
 
-See above. <extendedRepoDescription>
+See above. This repository hosts stock images of Major Mayhem that anyone can download and use.
 
 ***
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
+[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/SeansLifeArchive_Images_MajorMayhem/wiki)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
 
@@ -130,7 +134,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is not allowed for others, as this is a personal project.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 13 commits (As of Wednesday, May 12th 2021 at 2:02 pm)
 
 > * 2. No other contributers.
 
@@ -200,9 +204,9 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
+[Project language file](PROJECT_LANG.as)
 
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
+[Join the discussion on GitHub](https://github.com/seanpm2001/SeansLifeArchive_Images_MajorMayhem/discussions)
 
 No other resources at the moment.
 
@@ -212,7 +216,7 @@ No other resources at the moment.
 
 Contributing is not allowed for this project, as this is a personal project.
 
-[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
+[Click/tap here to view the contributing rules for this project](/CONTRIBUTING.md)
 
 ***
 
@@ -220,15 +224,15 @@ Contributing is not allowed for this project, as this is a personal project.
 
 File type: `Markdown (*.md)`
 
-File version: `0.1 (Sunday, March 21st 2021 at 8:01 pm)`
+File version: `1 (Wednesday, May 12th 2021 at 2:02 pm)`
 
-Line count: `0,296`
+Line count: `0,292`
 
 ***
 
 ## README version history
 
-Version 0.1 (Sunday, March 21st 2021 at 8:01 pm)
+Version 1 (Wednesday, May 12th 2021 at 2:02 pm)
 
 > Changes:
 
@@ -265,14 +269,6 @@ Version 0.1 (Sunday, March 21st 2021 at 8:01 pm)
 > * Added a software status section, with a DRM free sticker and message
 
 > * Added the sponsor info section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
 
 > * No other changes in version 1
 
